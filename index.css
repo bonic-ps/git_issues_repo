@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+}
+
+button {
+    border-color: aqua;
+    font-family: sans-serif;
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+
+button:hover{
+    box-shadow: 2px 4px 8px;
+}
+
+
+
+h1 {
+    color: deepskyblue;
+    padding: 20px;
+    font-family: math;
+}
+
+
+h2 {
+    margin-bottom: 10px;
+    font-family: monospace;
+}
+
+
+ol  {
+    padding: 10px;
+    height: 100px;
+    font-size: larger;
+    font-family: monospace;
+    margin: 0 580px;
+    width: 100%;
+    text-align: initial;
+}
